@@ -1,9 +1,7 @@
 import React from "react";
 import { RiDeleteBack2Fill } from "react-icons/ri";
 
-//React-Icons
-//Spiegare parentesi prima dopo arrow che significa che si sta returnandp
-//Passare funzioni ai componenti
+
 
 const List = (props) => {
   return (
